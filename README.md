@@ -78,5 +78,5 @@ This project is licensed under the GNU General Public License v3.0. See the LICE
 	•	GitHub Issues: Use this repo’s Issues tab to report bugs or request features.
 
 ## Support us
-<div align="center"><a href="https://www.buymeacoffee.com/kingitchy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kingitchy" /></a></div>
+<div align="center"><a href="https://www.buymeacoffee.com/kingitchy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kingitchy"></a></div>
 
