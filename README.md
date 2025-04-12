@@ -5,6 +5,7 @@
 
 [![GitHub Repo Stars](https://img.shields.io/github/stars/kingitchy89/shark-syndicate-gaming?style=social)](https://github.com/kingitchy89/shark-syndicate-gaming/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/kingitchy89/shark-syndicate-gaming?style=social)](https://github.com/kingitchy89/shark-syndicate-gaming/network/members)
+![GitHub repo size](https://img.shields.io/github/repo-size/kingitchy89/shark-syndicate-gaming)
 [![GitHub Issues](https://img.shields.io/github/issues/kingitchy89/shark-syndicate-gaming)](https://github.com/kingitchy89/shark-syndicate-gaming/issues)
 [![GitHub License](https://img.shields.io/github/license/kingitchy89/shark-syndicate-gaming)](https://github.com/kingitchy89/shark-syndicate-gaming/blob/main/LICENSE)
 
