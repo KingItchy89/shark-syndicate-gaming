@@ -53,8 +53,10 @@ To run the site locally:
    cd shark-syndicate-gaming
 2.	Open index.html in your browser to preview the website.
 3.	If using Node.js in the future:
-		npm install
+	<code>	npm install
 		npm start
+	</code>
+  
 
 ## Contributing
 
