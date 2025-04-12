@@ -3,7 +3,7 @@
 [![GitHub Repo Stars](https://img.shields.io/github/stars/KingItchy89/shark-syndicate-gaming?style=social)](https://github.com/KingItchy89/shark-syndicate-gaming/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/KingItchy89/shark-syndicate-gaming?style=social)](https://github.com/KingItchy89/shark-syndicate-gaming/network/members)
 [![GitHub Issues](https://img.shields.io/github/issues/KingItchy89/shark-syndicate-gaming)](https://github.com/KingItchy89/shark-syndicate-gaming/issues)
-[![GitHub License](https://img.shields.io/github/license/KingItchy89/shark-syndicate-gaming)](https://github.com/KingItchy89/shark-syndicate-gaming/blob/main/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/KingItchy89/shark-syndicate-gaming)](https://github.com/KingItchy89/shark-syndicate-gaming/blob/main/code/LICENSE)
 
 Welcome to the official GitHub repository of **Shark Syndicate Gaming**, an elite Call of Duty clan founded by competitive players with a passion for excellence, camaraderie, and tactical domination. This repository contains the source code, assets, and documentation for our official website and related tools.
 
