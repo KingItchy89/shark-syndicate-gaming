@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align-"center">Shark Syndicate Gaming</h>
 
-</br>
+<br>
 
 [![GitHub Repo Stars](https://img.shields.io/github/stars/kingitchy89/shark-syndicate-gaming?style=social)](https://github.com/kingitchy89/shark-syndicate-gaming/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/kingitchy89/shark-syndicate-gaming?style=social)](https://github.com/kingitchy89/shark-syndicate-gaming/network/members)
@@ -53,10 +53,10 @@ To run the site locally:
    cd shark-syndicate-gaming
 2.	Open index.html in your browser to preview the website.
 3.	If using Node.js in the future:
-	<code>	npm install
+	<p><code>	
+		npm install
 		npm start
-	</code>
-  
+	</code></p>
 
 ## Contributing
 
