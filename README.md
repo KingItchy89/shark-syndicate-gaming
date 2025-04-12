@@ -8,14 +8,11 @@
 
 </br>
 
-<div align="center">
-<a href="https://github.com/KingItchy89/shark-syndicate-gaming/stargazers"><img alt="GitHub Repo Stars" src="https://img.shields.io/github/stars/KingItchy89/shark-syndicate-gaming"></a)
-<a href="https://github.com/KingItchy89/shark-syndicate-gaming/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-GPLv3-blue.svg"></a>
 
-[![GitHub Repo Stars](https://img.shields.io/github/stars/KingItchy89/shark-syndicate-gaming?style=social)](https://github.com/KingItchy89/shark-syndicate-gaming/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/KingItchy89/shark-syndicate-gaming?style=social)](https://github.com/KingItchy89/shark-syndicate-gaming/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/KingItchy89/shark-syndicate-gaming)](https://github.com/KingItchy89/shark-syndicate-gaming/issues)
-[![GitHub License](https://img.shields.io/github/license/KingItchy89/shark-syndicate-gaming)](https://github.com/KingItchy89/shark-syndicate-gaming/blob/main/LICENSE)
+[![GitHub Repo Stars](https://img.shields.io/github/stars/kingitchy89/shark-syndicate-gaming?style=social)](https://github.com/kingitchy89/shark-syndicate-gaming/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/kingitchy89/shark-syndicate-gaming?style=social)](https://github.com/kingitchy89/shark-syndicate-gaming/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/kingitchy89/shark-syndicate-gaming)](https://github.com/kingitchy89/shark-syndicate-gaming/issues)
+[![GitHub License](https://img.shields.io/github/license/kingitchy89/shark-syndicate-gaming)](https://github.com/kingitchy89/shark-syndicate-gaming/blob/main/LICENSE)
 
 Welcome to the official GitHub repository of **Shark Syndicate Gaming**, an elite Call of Duty clan founded by competitive players with a passion for excellence, camaraderie, and tactical domination. This repository contains the source code, assets, and documentation for our official website and related tools.
 
