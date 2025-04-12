@@ -1,4 +1,16 @@
-# Shark Syndicate Gaming
+<div align="center">
+<h1 align-"center">Shark Syndicate Gaming</h>
+</div>
+
+<div algin="center">
+	<a href="https://www.ssgaming.com">SSGaming.com</a>
+</div>
+
+</br>
+
+<div align="center">
+<a href="https://github.com/KingItchy89/shark-syndicate-gaming/stargazers"><img alt="GitHub Repo Stars" src="https://img.shields.io/github/stars/KingItchy89/shark-syndicate-gaming"></a)
+<a href="https://github.com/KingItchy89/shark-syndicate-gaming/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-GPLv3-blue.svg"></a>
 
 [![GitHub Repo Stars](https://img.shields.io/github/stars/KingItchy89/shark-syndicate-gaming?style=social)](https://github.com/KingItchy89/shark-syndicate-gaming/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/KingItchy89/shark-syndicate-gaming?style=social)](https://github.com/KingItchy89/shark-syndicate-gaming/network/members)
