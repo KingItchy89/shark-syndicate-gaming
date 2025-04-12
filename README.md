@@ -52,11 +52,6 @@ To run the site locally:
    git clone https://github.com/KingItchy89/shark-syndicate-gaming.git
    cd shark-syndicate-gaming
 2.	Open index.html in your browser to preview the website.
-3.	If using Node.js in the future:
-	<p><code>	
-		npm install
-		npm start
-	</code></p>
 
 ## Contributing
 
